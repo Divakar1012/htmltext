@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+<title>LOGIN-FORM</title>
+
+<style>
+body{background-color:pink	;}
+#login-form{text-align:center;}
+#address{width:220px;height:60px;}
+</style>
+
+</head>
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<form id="login-form">
+<label>Name:</label><input id="fname"></input><br>
+<br><label>Password:</label><input></input><br>
+<br><label>Email:</label><input></input><br>
+<br><label>Courses:<label>
+<select id="course">
+<option>Computer</option>
+<option>Information Technology</option>
+<option>Electronics</option>
+<option>Mechanical</option>
+<option>Artificial Intelligence</option>
+<option>Civi</option>
+</select><br>
+<br><label>Address: </label><textarea id="address"></textarea><br>
+<br><label>Country:</label>
+
+<label for="country"></label>
+<input list="countries" id="country" name="country" />	
+<datalist id="countries">	
+
+<option>Bahamas</option>
+<option>Brazil</option>
+<option>Cambodia</option>
+<option>Comoros</option>
+<option>Dominica</option>
+<option>Egypt</option>
+<option>Finland</option>
+<option>Germany</option>
+<option>Haiti</option>
+<option>Iceland</option>
+<option>India</option>
+<option>Indonesia</option>
+<option>Iran</option>
+<option>Japan</option>
+<option>Kuwait</option>
+
+</datalist>
+
+<br><br><input type="submit"></input>
+</form>
+</body>
+</html>

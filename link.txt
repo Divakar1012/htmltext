@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<title>Home Page</title>
+<style>
+body{background-color:pink;}
+#heading{position:absolute;left:440px;top:200px;font-size:50px;}
+#login{position:absolute;left:720px;top:350px;font-size:30px;text-decoration:none;}
+#table{position:absolute;left:720px;top:420px;font-size:30px;text-decoration:none;}
+#about{position:absolute;left:720px;top:490px;font-size:30px;text-decoration:none;}
+
+</style>
+
+</head>
+
+<body>  	
+<h2 id="heading"><b>Navigate To Different Web Pages</b></h2>
+<a id="login" href="file:///C:/Users/AAKASH/Desktop/Link%20Web%20Pages/form.html">LOGIN</a>
+<a id="table" href="file:///C:/Users/AAKASH/Desktop/Link%20Web%20Pages/table.html">TABLE</a>
+<a id="about" href="file:///C:/Users/AAKASH/Desktop/Link%20Web%20Pages/about.html">ABOUT</a>
+
+
+</body>
+</html>

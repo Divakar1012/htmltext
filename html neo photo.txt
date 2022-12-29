@@ -1,0 +1,42 @@
+<!doctype>
+<html>
+<head>
+<style>
+#titleName{position:absolute;top:300}
+#titleDescription{color:grey;position:absolute;top:360}
+#viewWork{position:absolute;top:430}
+#ourWork{position:absolute;top:800;left:400}
+div{
+margin:30px;
+}
+.button{border-radius: 250px; height:50px; width:200px;}
+</style>
+</head>
+<body>
+<div>
+<img id="backGroundImage" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYtEUsA5RNfwq_1fuTku9KxdR_Zi6ZJBjg0deDIcpBqkvW2U2L" align="right"; height=750px; width=500px; </img>
+<h1 id="titleName">NEO PHOTOGRAPHY</h1>
+<h2 id="titleDescription"> Beautiful Commercial Photography</h2>
+<a id="viewWork"> <button class="button">View Work</button></a>
+</div>
+<div>
+<h1 id="ourWork" >| Our Work |</h2>
+<img id="firstImage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFIUTZkAiKnKjKZrRNu2tKBPycxkKSMEcQLw&usqp=CAU" height=600px; weight=1000px;></img>
+</div>
+<div>
+<img id="secondImage" src="https://static.dw.com/image/60208705_605.jpg"></img>
+<p id="firstImageName" > FOOD PHOTOGRAPHY</p>
+</div>
+<div>
+<img id="thirdImage" src="https://static.dw.com/image/60208705_605.jpg" align="center"></img>
+<p id="secondImageName"> Aerial Photography</p>
+</div>
+<div>
+<img id="fourthImage" src="https://static.dw.com/image/60208705_605.jpg"></img>
+<p id="thirdImageName" > Abstract Photography</p>
+</div>
+</body>
+</html>
+
+</body>
+</html>

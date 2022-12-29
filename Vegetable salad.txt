@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<title id="titleName">
+VEGETABLE SALAD
+</title>
+<style>
+div.container{text-align:center;}
+#vegetableSaladImage{  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
+#benefits{text-align:center}
+#benefitsParagraph{text-align:center}
+#stepsForVegetableSalad{text-align:center}
+#steps{text-align:center}
+#footerText{text-align:center}
+#stepsForVegetableSalad
+  {display: inline-block;
+  text-align: left;}
+</style>
+</head>
+<body style="background-color:lightgreen";>
+<img src="https://www.veggieinspired.com/wp-content/uploads/2021/05/raw-veggie-chopped-salad-featured-500x375.jpg" id="vegetableSaladImage"></img>
+<div text-align:center >
+<h1 id="benefits"> Benefits of vegetable salad </h1>
+<p id="benefitsParagraph">Here are 10 top health benefits of eating vegetable salad. 1. Vegetable Salad is a Natural Source of Fiber and is Good for Digestion Digestion problems</p>
+</div>
+<div class="container">
+<h1 id="steps">Steps to make Vegetable Salad</h1>
+<ul id="stepsForVegetableSalad">
+<li>Vegetable Salad Boosts Your Immune System</li>
+<li>Vegetable Salad is a Natural Source of Fiber and is Good for Digestion</li>
+<li>Vegetable Salad Strengthens your Muscles</li>
+<li> Vegetable Salad Detoxifies your Body</li>
+</ul>
+</div>
+<footer id="footerText">
+This easy steps make you to prepare good and healthy vegetable salad
+</footer>
+
+</body>
+</html>
+</html>
